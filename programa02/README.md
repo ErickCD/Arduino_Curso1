@@ -1,1 +1,2 @@
+#Información
 Con este programa se encienden tres led de izquierda a derecha y después de derecha a izquierda.
