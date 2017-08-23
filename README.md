@@ -1,0 +1,2 @@
+ # Arduino curso online 1 
+En el presente repositorio se plantean distintas actividdades, enumeradas segun el avance de las mismas, desde basicas hasta avanzadas, se incluyen de igual forma, las clases tomadas, así como libros.
